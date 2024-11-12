@@ -2,7 +2,7 @@
 
 MizukiChaan(みずきちゃん)です
 
-mail💌：n0k2s0m1@gmail.com
+mail 💌：n0k2s0m1@gmail.com
 
 ## score 😎
 
