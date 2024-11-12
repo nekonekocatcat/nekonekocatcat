@@ -4,6 +4,8 @@ MizukiChaan(みずきちゃん)です
 
 mail：n0k2s0m1@gmail.com
 
+## skill 😎
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nekonekocatcat
 )](https://github.com/anuraghazra/github-readme-stats)
 
