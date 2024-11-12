@@ -1,5 +1,10 @@
 ## Hello World 👋
 
+Mizukichaanです
+
+mail：n0k2s0m1@gmail.com
+
+
 <!--
 **nekonekocatcat/nekonekocatcat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
